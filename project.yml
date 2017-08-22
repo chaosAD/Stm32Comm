@@ -31,13 +31,10 @@
 :paths:
   :test:
     - +:test/**
-    - -:test/support
   :source:
     - src/**
   :include:
     - inc/**
-  :support:
-    - test/support
 
 :defines:
   # in order to add common defines:
